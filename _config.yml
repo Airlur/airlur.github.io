@@ -4,12 +4,12 @@
 
 # Site
 title: Airlur's World
-subtitle: '过好今天，期盼明天'
-description: ''
+subtitle:
+description: 'I know why you are here'
 keywords:
 author: Airlur
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -93,10 +93,16 @@ include:
 exclude:
 ignore:
 
+# 搜索
+search:
+  path: search.xml
+  field: post
+  content: true
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
