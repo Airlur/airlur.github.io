@@ -66,7 +66,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: https://hfile.hizuki.fun/ck567-2.png
+  img: https://i.oins.me/file/1762011056033_ck567-2.png
   effect: false
 
 # Disable all banner images
@@ -76,7 +76,7 @@ disable_top_img: false
 default_top_img: transparent
 
 # The banner image of index page
-index_img: https://hfile.hizuki.fun/pinkhair_girl.jpg
+index_img: https://i.oins.me/file/1762009694688_pinkhair_girl.jpg
 
 # The banner image of archive page
 archive_img:
@@ -102,7 +102,7 @@ footer_img: transparent
 
 # Website Background
 # Can set it to color or image url
-background: url(https://hfile.hizuki.fun/pinkhair_girl.jpg)
+background: url(https://i.oins.me/file/1762009694688_pinkhair_girl.jpg)
 
 cover:
   # Disable the cover or not
